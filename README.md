@@ -24,6 +24,9 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-## My Take Progress
+## My Progress in the challenge
 
 I have used this project for practising usage of useEffect hook for API data fetching and styling the project with Tailwind.css
+1.I have learnt how to separate the useEffect hook and fetch function for it's further reusability.
+2.How to customize box-shadows in the theme of Tailwind.css
+3.How to handle the errors, when working with APIs
